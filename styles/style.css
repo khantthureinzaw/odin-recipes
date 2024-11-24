@@ -1,0 +1,16 @@
+body {
+    background-color: pink;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+h1,
+h2,
+h3 {
+    color:olive
+}
+
+
+
+ul li a {
+    color: rgb(46, 3, 238);
+}
