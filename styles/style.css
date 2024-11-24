@@ -9,8 +9,33 @@ h3 {
     color:olive
 }
 
-
-
-ul li a {
-    color: rgb(46, 3, 238);
+h1 {
+    text-align: center;
+    font-size: 40px;
 }
+
+.recipes {
+    background-color: antiquewhite;
+    box-sizing: border-box;
+    width: 300px;
+    height: auto;
+    margin: 20px auto;
+    border: 8px solid white;
+}
+
+ul {
+    padding: 20px 40px;
+}
+
+.dishes {
+    color: rgb(46, 3, 238);
+    font-size: 20px;
+    list-style: none;
+    text-align: center;
+    margin: 8px;
+}
+
+.dishes a {
+    text-decoration: none;
+}
+
